@@ -54,7 +54,7 @@
 
           <div class="col-lg-4" data-aos="fade-up">
             <div class="box">
-              <span>01</span>
+              <!-- <span>01</span> -->
               <h4>Vision</h4>
               <p>To be the best and the biggest company to fulfill the world's charcoal needs.</p>
             </div>
@@ -62,7 +62,7 @@
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
             <div class="box">
-              <span>02</span>
+              <!-- <span>02</span> -->
               <h4>Mission</h4>
               <p>Producing and developing all sources of charcoal raw materials in Indonesia to boost charcoal sales.
                 Both in quantity and quality from Indonesia to various countries in the world.</p>
@@ -71,7 +71,7 @@
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
-              <span>03</span>
+              <!-- <span>03</span> -->
               <h4>Goals</h4>
               <p>Selling various kinds of charcoal products with the best quality from Indonesia to all over country in the world.</p>
             </div>
@@ -130,7 +130,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <div class="icon"><i class="bx bx-box"></i></div>
               <h4><a href="">Material Size</a></h4>
               <p>You can customize material size of charcoal according to what you want</p>
             </div>
@@ -138,7 +138,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="150">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
+              <div class="icon"><i class="bx bx-package"></i></div>
               <h4><a href="">Packaging</a></h4>
               <p>You can choose the packaging model, material, and size. as according to your wishes</p>
             </div>
@@ -146,7 +146,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <div class="icon"><i class="bx bx-medal"></i></div>
               <h4><a href="">OEM Brand</a></h4>
               <p>“You can custom your brand and logo in the packaging with design according to the design you want</p>
             </div>
@@ -162,7 +162,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="600">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
+              <div class="icon"><i class="bx bx-support"></i></div>
               <h4><a href="">Customer Support</a></h4>
               <p>Our team is ready to be your personal consultant to help you overcome the various problems &
                 difficulties you experience when you are in the charcoal business</p>
@@ -171,7 +171,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="750">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
+              <div class="icon"><i class="bx bx-network-chart"></i></div>
               <h4><a href="">Customer Relationship</a></h4>
               <p>We are ready to be your company's permanent partner to always support the charcoal needs in accordance with the quality and quantity that your company determines</p>
             </div>
