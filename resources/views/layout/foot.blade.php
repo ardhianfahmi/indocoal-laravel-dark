@@ -8,10 +8,10 @@
                      <div class="footer-info">
                          <h3>Day</h3>
                          <p>
-                             A108 Adam Street <br>
-                             NY 535022, USA<br><br>
-                             <strong>Phone:</strong> +1 5589 55488 55<br>
-                             <strong>Email:</strong> info@example.com<br>
+                             Blora Street, KM 01 Tahunan, Sale, Rembang<br>
+                             Central Java, Indonesia<br><br>
+                             <strong>Phone:</strong> +6281359358360<br>
+                             <strong>Email:</strong> indocoal8@gmail.com<br>
                          </p>
                          <div class="social-links mt-3">
                              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -60,14 +60,14 @@
 
      <div class="container">
          <div class="copyright">
-             &copy; Copyright <strong><span>Day</span></strong>. All Rights Reserved
+             &copy; Copyright <strong><span>Indocoal</span></strong>. All Rights Reserved
          </div>
          <div class="credits">
              <!-- All the links in the footer should remain intact. -->
              <!-- You can delete the links only if you purchased the pro version. -->
              <!-- Licensing information: https://bootstrapmade.com/license/ -->
              <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/day-multipurpose-html-template-for-free/ -->
-             Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+             Designed by <a>Indocoal.id</a>
          </div>
      </div>
  </footer><!-- End Footer -->

@@ -25,20 +25,20 @@
             <img src="{{ ('/img/about.jpg') }}" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>About Us</h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              We produce more than 2000 ton raw material (wood, coconut shell, sawdust) into charcoal every month. Spread across several island in indonesia
             </p>
-            <ul>
+            <!-- <ul>
               <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
               <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
               <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
+            </ul> -->
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              In the first, indocoal is a manufacture, trading, and exporter of wood charcoal lump. And after that,
+              indocoal do expansion for add any factory in charcoal industry. We add factory for processed coconut
+              shell charcoal and sawdust charcoal. So, in this day, we are have a any factory that focused in charcoal
+              industry. Start from wood charcoal lump, coconut shell charcoal, and sawdust charcoal
             </p>
           </div>
         </div>
@@ -55,24 +55,25 @@
           <div class="col-lg-4" data-aos="fade-up">
             <div class="box">
               <span>01</span>
-              <h4>Lorem Ipsum</h4>
-              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+              <h4>Vision</h4>
+              <p>To be the best and the biggest company to fulfill the world's charcoal needs.</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
             <div class="box">
               <span>02</span>
-              <h4>Repellat Nihil</h4>
-              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+              <h4>Mission</h4>
+              <p>Producing and developing all sources of charcoal raw materials in Indonesia to boost charcoal sales.
+                Both in quantity and quality from Indonesia to various countries in the world.</p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
               <span>03</span>
-              <h4> Ad ad velit qui</h4>
-              <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+              <h4>Goals</h4>
+              <p>Selling various kinds of charcoal products with the best quality from Indonesia to all over country in the world.</p>
             </div>
           </div>
 
@@ -82,7 +83,7 @@
     </section><!-- End Why Us Section -->
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
+    <!-- <section id="clients" class="clients">
       <div class="container" data-aos="zoom-in">
 
         <div class="row d-flex align-items-center">
@@ -114,7 +115,7 @@
         </div>
 
       </div>
-    </section><!-- End Clients Section -->
+    </section>End Clients Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
@@ -123,55 +124,56 @@
         <div class="section-title">
           <span>Services</span>
           <h2>Services</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <p>Some of the services we offer to solve all the problems experienced by the majority of the charcoal industry players in the world today.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Material Size</a></h4>
+              <p>You can customize material size of charcoal according to what you want</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="150">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Packaging</a></h4>
+              <p>You can choose the packaging model, material, and size. as according to your wishes</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">OEM Brand</a></h4>
+              <p>“You can custom your brand and logo in the packaging with design according to the design you want</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="450">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Customer Visit</a></h4>
+              <p>Our team is ready to handle and arrange all accommodations for the customer's visit to the factory</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="600">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">Customer Support</a></h4>
+              <p>Our team is ready to be your personal consultant to help you overcome the various problems &
+                difficulties you experience when you are in the charcoal business</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="750">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-arch"></i></div>
-              <h4><a href="">Divera don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">Customer Relationship</a></h4>
+              <p>We are ready to be your company's permanent partner to always support the charcoal needs in accordance with the quality and quantity that your company determines</p>
             </div>
           </div>
 
@@ -181,7 +183,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
+    <!-- <section id="cta" class="cta">
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
@@ -191,16 +193,16 @@
         </div>
 
       </div>
-    </section><!-- End Cta Section -->
+    </section>End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
       <div class="container">
 
         <div class="section-title">
-          <span>Portfolio</span>
-          <h2>Portfolio</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <span>Product</span>
+          <h2>Product</h2>
+          <p>We produce and sell various types of quality charcoal from Indonesia. Here are the types of charcoal that we produce in Indonesia.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -316,8 +318,8 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Pricing</span>
-          <h2>Pricing</h2>
+          <span>Testimony</span>
+          <h2>Testimony</h2>
           <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
         </div>
 
@@ -386,7 +388,9 @@
         <div class="section-title">
           <span>Team</span>
           <h2>Team</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <p>With a team that has the knowledge, ability, and experience that is qualified in the charcoal industry,
+            of course we believe that our company will become a leading company in the future and is ready to fully
+            support the charcoal needs of various countries in the world.</p>
         </div>
 
         <div class="row">
@@ -461,7 +465,7 @@
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
               <h3>Our Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <p>Blora Street KM 01 Tahunan, Sale, Rembang, Central Java, Indonesia</p>
             </div>
           </div>
 
@@ -469,7 +473,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>contact@example.com</p>
+              <p>indocoal8@gmail.com</p>
             </div>
           </div>
 
@@ -477,7 +481,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <p>+6281359358360</p>
             </div>
           </div>
 
@@ -486,7 +490,8 @@
         <div class="row" data-aos="fade-up">
 
           <div class="col-lg-6 ">
-            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31688.161028063107!2d111.5292083569209!3d-6.888192125532648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7714f355674699%3A0x5027a76e355e180!2sTahunan%2C%20Sale%2C%20Kabupaten%20Rembang%2C%20Jawa%20Tengah!5e0!3m2!1sid!2sid!4v1605857197385!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+            <!-- <iframe  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe> -->
           </div>
 
           <div class="col-lg-6">

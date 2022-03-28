@@ -73,7 +73,7 @@ h6 {
     bottom: 0;
     z-index: 9999;
     overflow: hidden;
-    background: #fff;
+    background: #191919;
 }
 
 #preloader:before {
@@ -510,7 +510,8 @@ section {
   --------------------------------------------------------------*/
 .about .content h3 {
     font-weight: 600;
-    font-size: 26px;
+    font-size: 36px;
+    font-family: "Raleway", sans-serif !important;
 }
 .about .content ul {
     list-style: none;
@@ -1003,7 +1004,7 @@ section {
   # Contact
   --------------------------------------------------------------*/
 .contact .info-box {
-    color: #444444;
+    color: white;
     text-align: center;
     box-shadow: 0px 2px 15px rgb(0 0 0 / 30%);
     padding: 20px 0 30px 0;
@@ -1017,7 +1018,7 @@ section {
 }
 .contact .info-box h3 {
     font-size: 20px;
-    color: #777777;
+    color: white;
     font-weight: 700;
     margin: 10px 0;
 }
@@ -1116,7 +1117,7 @@ section {
   --------------------------------------------------------------*/
 .breadcrumbs {
     padding: 15px 0;
-    background: #efefef;
+    background: #191919;
 }
 .breadcrumbs h2 {
     font-size: 26px;
