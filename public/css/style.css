@@ -228,6 +228,8 @@ h6 {
 .navbar .active:focus,
 .navbar li:hover > a {
     background: #cc1616;
+    color: white;
+    font-weight: bold;
 }
 .navbar .dropdown ul {
     display: block;

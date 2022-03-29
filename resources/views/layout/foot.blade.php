@@ -50,8 +50,8 @@
                  <div class="col-lg-4 col-md-6 footer-newsletter">
                      <h4>Our Newsletter</h4>
                      <p>Get our news letter about charcoal industry</p>
-                     <form action="" method="post">
-                         <input type="email" name="email"><input type="submit" value="Subscribe">
+                     <form action="mailto:indocoal8@gmail.com" method="post">
+                         <input type="email" name="email" value="Your Email"><input type="submit" value="Subscribe">
                      </form>
 
                  </div>
