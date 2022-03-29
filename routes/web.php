@@ -25,5 +25,10 @@ Route::get('titan', function () {
     return view('home');
 });
 
-Route::get('/contact', 'Kirim_Email@send');
-// Route::post('/contact', 'Kirim_Email@sendMail');
+Route::post('/sendmail', [
+    'as' => 'sendmail',
+    'uses' => 'App\Http\Controllers\MailController@sendEmail'
+]);
+
+// Route::get('/contact', 'Kirim_Email@send');
+// // Route::post('/contact', 'Kirim_Email@sendMail');
