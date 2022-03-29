@@ -527,6 +527,7 @@ section {
 }
 .about .content p:last-child {
     margin-bottom: 0;
+    line-height: 40px;
 }
 
 /*--------------------------------------------------------------
@@ -973,11 +974,13 @@ section {
     font-weight: 700;
     margin-bottom: 2px;
     font-size: 18px;
+    color: #191919;
 }
 .team .member span {
     font-style: italic;
     display: block;
     font-size: 13px;
+    color: #191919;
 }
 .team .member p {
     padding-top: 10px;
@@ -1000,6 +1003,53 @@ section {
     margin: 0 2px;
 }
 
+/*--------------------------------------------------------------
+  # Testimony
+  --------------------------------------------------------------*/
+.pricing .member {
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+    padding: 30px 20px;
+    background: #fff;
+}
+.pricing .member img {
+    max-width: 60%;
+    border-radius: 50%;
+    margin: 0 0 30px 0;
+}
+.pricing .member h4 {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 18px;
+    color: #191919;
+}
+.pricing .member span {
+    font-style: italic;
+    display: block;
+    font-size: 13px;
+    color: #191919;
+}
+.pricing .member p {
+    padding-top: 10px;
+    font-size: 14px;
+    font-style: italic;
+    color: #aaaaaa;
+}
+.pricing .member .social {
+    margin-top: 15px;
+}
+.pricing .member .social a {
+    color: #919191;
+    transition: 0.3s;
+}
+.pricing .member .social a:hover {
+    color: #cc1616;
+}
+.pricing .member .social i {
+    font-size: 18px;
+    margin: 0 2px;
+}
 /*--------------------------------------------------------------
   # Contact
   --------------------------------------------------------------*/

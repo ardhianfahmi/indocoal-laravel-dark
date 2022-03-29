@@ -122,8 +122,8 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Services</span>
-          <h2>Services</h2>
+          <span>Our Services</span>
+          <h2>Our Services</h2>
           <p>Some of the services we offer to solve all the problems experienced by the majority of the charcoal industry players in the world today.</p>
         </div>
 
@@ -131,7 +131,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-box"></i></div>
-              <h4><a href="">Material Size</a></h4>
+              <h4><a href="#">Material Size</a></h4>
               <p>You can customize material size of charcoal according to what you want</p>
             </div>
           </div>
@@ -139,7 +139,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="150">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-package"></i></div>
-              <h4><a href="">Packaging</a></h4>
+              <h4><a href="#">Packaging</a></h4>
               <p>You can choose the packaging model, material, and size. as according to your wishes</p>
             </div>
           </div>
@@ -147,7 +147,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-medal"></i></div>
-              <h4><a href="">OEM Brand</a></h4>
+              <h4><a href="#">OEM Brand</a></h4>
               <p>“You can custom your brand and logo in the packaging with design according to the design you want</p>
             </div>
           </div>
@@ -155,7 +155,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="450">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Customer Visit</a></h4>
+              <h4><a href="#">Customer Visit</a></h4>
               <p>Our team is ready to handle and arrange all accommodations for the customer's visit to the factory</p>
             </div>
           </div>
@@ -163,7 +163,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="600">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-support"></i></div>
-              <h4><a href="">Customer Support</a></h4>
+              <h4><a href="#">Customer Support</a></h4>
               <p>Our team is ready to be your personal consultant to help you overcome the various problems &
                 difficulties you experience when you are in the charcoal business</p>
             </div>
@@ -172,7 +172,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="750">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-network-chart"></i></div>
-              <h4><a href="">Customer Relationship</a></h4>
+              <h4><a href="#">Customer Relationship</a></h4>
               <p>We are ready to be your company's permanent partner to always support the charcoal needs in accordance with the quality and quantity that your company determines</p>
             </div>
           </div>
@@ -320,12 +320,55 @@
         <div class="section-title">
           <span>Testimony</span>
           <h2>Testimony</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <p>The following are comments from some of the testimonies that have been our regular customers so far</p>
         </div>
 
+        <!-- <div class="row"> -->
         <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+            <div class="member">
+              <img src="{{ ('/img/testimony/testimony-1.jpg') }}" alt="">
+              <!-- <h4>Titan Eko Elianto</h4>
+              <span>Founder</span> -->
+              <p>
+                Indocoal is the best manufacture of charcoal from indonesia. On time delivery,
+                the best serviece, and fair peyment method. That support with the best quality and quantity of charcoal product
+              </p>
+              <div class="social">
+                <!-- <a href="instagram.com/titan_eko"><i class="bi bi-instagram"></i></a> -->
+              </div>
+            </div>
+          </div>
 
-          <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="150">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+            <div class="member">
+              <img src="{{ ('/img/testimony/testimony-2.jpg') }}" alt="">
+              <!-- <h4>Ryan Syabana</h4>
+              <span>Business Development</span> -->
+              <p>
+                I think, indocoal is e the best supplier of charcoal product from indonesia.
+                I will repeat and continue order from this company for meet the needs of charcoal for my company
+              </p>
+              <div class="social">
+                <!-- <a href="instagram.com/ryansyabanaa"><i class="bi bi-instagram"></i></a> -->
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+            <div class="member">
+              <img src="{{ ('/img/testimony/testimony-3.jpg') }}" alt="">
+              <!-- <h4>Adji Bramasta</h4>
+              <span>Operational Manager</span> -->
+              <p>
+                Indocoal is a great charcoal supplier in indonesia. I think, this is the best charcoal company that I've met so far
+              </p>
+              <div class="social">
+                <!-- <a href="instagram.com/adjiebrams_"><i class="bi bi-instagram"></i></a> -->
+              </div>
+            </div>
+          </div>
+          <!-- <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="150">
             <div class="box">
               <h3>Free</h3>
               <h4><sup>$</sup>0<span> / month</span></h4>
@@ -374,7 +417,7 @@
                 <a href="#" class="btn-buy">Buy Now</a>
               </div>
             </div>
-          </div>
+          </div> -->
 
         </div>
 
@@ -397,16 +440,13 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
               <img src="{{ ('/img/team/team-1.jpg') }}" alt="">
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
+              <h4>Titan Eko Elianto</h4>
+              <span>Founder</span>
               <p>
-                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                No success is achieved with ease. Because the truth is that success always awaits people who are in difficult situations
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="http://www.instagram.com/titan_eko"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -414,16 +454,13 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
               <img src="{{ ('/img/team/team-2.jpg') }}" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
+              <h4>Ryan Syabana</h4>
+              <span>Business Development</span>
               <p>
-                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                Loving work is something that everyone should have. Because by loving what we do, success will await ahead
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="http://www.instagram.com/ryansyabanaa"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -431,16 +468,13 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
               <img src="{{ ('/img/team/team-3.jpg') }}" alt="">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
+              <h4>Adji Bramasta</h4>
+              <span>Operational Manager</span>
               <p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                In fact, success is only one step away from our feet. So don't give up. always be consistent and achieve success in life
               </p>
               <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="http://www.instagram.com/adjiebrams_"><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>

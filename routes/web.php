@@ -24,3 +24,6 @@ Route::get('portfolio', function () {
 Route::get('titan', function () {
     return view('home');
 });
+
+Route::get('/contact', 'Kirim_Email@send');
+// Route::post('/contact', 'Kirim_Email@sendMail');
