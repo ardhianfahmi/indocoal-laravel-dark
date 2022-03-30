@@ -208,67 +208,63 @@
         <div class="row" data-aos="fade-up">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">All Products</li>
+              <li data-filter=".filter-lump">Wood Charcoal Lump</li>
+              <li data-filter=".filter-wood">Wood Charcoal Briquettes</li>
+              <li data-filter=".filter-sawdust">Sawdust Charcoal Briquettes</li>
+              <li data-filter=".filter-coconut">Coconut Charcoal Briquettes</li>
             </ul>
           </div>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="150">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{ ('/img/portfolio/portfolio-1.jpg') }}" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-coconut">
+            <img src="{{ ('/img/portfolio/portfolio-1-coconut.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="{{ ('/img/portfolio/portfolio-1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Coconut Briquettes Charcoal</h4>
+              <a href="{{ ('/img/portfolio/portfolio-1-coconut.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Coconut Charcoal Briquettes"><i class="bx bx-zoom-in"></i></a>
+              <a href="portfolio-1" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ ('/img/portfolio/portfolio-2.jpg') }}" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-wood">
+            <img src="{{ ('/img/portfolio/portfolio-2-pillow.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="{{ ('/img/portfolio/portfolio-2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Pillow Biquettes Charcoal</h4>
+              <a href="{{ ('/img/portfolio/portfolio-2-pillow.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-zoom-in"></i></a>
+              <a href="portfolio-2" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{ ('/img/portfolio/portfolio-3.jpg') }}" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-sawdust">
+            <img src="{{ ('/img/portfolio/portfolio-3-sawdust.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="{{ ('/img/portfolio/portfolio-3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Sawdust Briquettes Charcoal</h4>
+              <a href="{{ ('/img/portfolio/portfolio-3-sawdust.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-zoom-in"></i></a>
+              <a href="portfolio-3" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="{{ ('/img/portfolio/portfolio-4.jpg') }}" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-wood">
+            <img src="{{ ('/img/portfolio/portfolio-4-wood.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="{{ ('/img/portfolio/portfolio-4.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Wood Charcoal Briquettes</h4>
+              <a href="{{ ('/img/portfolio/portfolio-4-wood.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-zoom-in"></i></a>
+              <a href="portfolio-4" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="{{ ('/img/portfolio/portfolio-5.jpg') }}" class="img-fluid" alt="">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-lump">
+            <img src="{{ ('/img/portfolio/portfolio-5-lump.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="{{ ('/img/portfolio/portfolio-5.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Wood Charcoal Lump</h4>
+              <a href="{{ ('/img/portfolio/portfolio-5-lump.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-zoom-in"></i></a>
+              <a href="portfolio-5" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="{{ ('/img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>App 3</h4>
@@ -306,7 +302,7 @@
               <a href="{{ ('/img/portfolio/portfolio-9.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
         </div>
 

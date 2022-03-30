@@ -844,7 +844,7 @@ section {
     margin-top: 10px;
 }
 .portfolio-details .portfolio-description {
-    padding-top: 30px;
+    padding: 30px;
 }
 .portfolio-details .portfolio-description h2 {
     font-size: 26px;

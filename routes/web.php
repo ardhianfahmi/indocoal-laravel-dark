@@ -17,9 +17,24 @@ Route::get('/', function () {
     return view('maintenance');
 });
 
-Route::get('portfolio', function () {
-    return view('portfolio');
+// portfolio
+Route::get('portfolio-1', function () {
+    return view('portfolio/portfolio-1');
 });
+Route::get('portfolio-2', function () {
+    return view('portfolio/portfolio-2');
+});
+Route::get('portfolio-3', function () {
+    return view('portfolio/portfolio-3');
+});
+Route::get('portfolio-4', function () {
+    return view('portfolio/portfolio-4');
+});
+Route::get('portfolio-5', function () {
+    return view('portfolio/portfolio-5');
+});
+
+// end portfolio
 
 Route::get('titan', function () {
     return view('home');
